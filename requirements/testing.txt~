@@ -1,4 +1,2 @@
 -r base.txt
 selenium==2.45.0
-coverage==3.7.1
-pytz==2015.4
